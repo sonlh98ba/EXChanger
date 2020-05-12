@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\bin\Debug\EXChanger.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\bin\Debug\EXChanger.exe
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\bin\Debug\EXChanger.pdb
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.Form1.resources
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.exe
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.pdb
+c:\users\hp\documents\visual studio 2013\Projects\EXChanger\EXChanger\obj\Debug\EXChanger.csproj.ResolveComReference.cache
